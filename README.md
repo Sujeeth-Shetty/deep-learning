@@ -1,2 +1,2 @@
-# neural-network-and-deep-learning
-Assignments and Project work related to Coursera Deep Learning course
+# Deep Learning
+This repository has assignments and Project work related to Coursera Deep Learning Specialization course. This course taught me the foundations of Deep Learning, understand how to build neural networks, and learn how to lead successful machine learning projects. Here I learnt about Convolutional networks, RNNs, LSTM, Adam, Dropout, BatchNorm, Xavier/He initialization, and more. I worked on case studies from healthcare, autonomous driving, sign language reading, music generation, and natural language processing. I practiced all these ideas in Python and in TensorFlow.   
